@@ -44,5 +44,6 @@ npm install
 
 # In separate terminals
 cd server && npm run server
+
 cd client && npm run dev
 
